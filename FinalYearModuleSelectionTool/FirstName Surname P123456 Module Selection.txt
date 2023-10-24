@@ -1,0 +1,46 @@
+Name: FirstName Surname
+P-Number: P123456
+Email: Test@email.com
+Date: 2023-05-19
+Course: Computer Science
+
+Selected Modules:
+=============
+
+Module Code: CTEC3410, Module Name: Web Application Penetration Testing
+Credits: 15, Mandatory: false, Delivery: TERM_2
+
+Module Code: CTEC3451, Module Name: Development Project
+Credits: 30, Mandatory: true, Delivery: YEAR_LONG
+
+Module Code: CTEC3905, Module Name: Front-End Web Development
+Credits: 15, Mandatory: false, Delivery: TERM_2
+
+Module Code: CTEC3911, Module Name: Mobile Application Development
+Credits: 15, Mandatory: false, Delivery: TERM_1
+
+Module Code: IMAT3104, Module Name: Database Management and Programming
+Credits: 15, Mandatory: false, Delivery: TERM_2
+
+Module Code: IMAT3406, Module Name: Fuzzy Logic and Knowledge Based Systems
+Credits: 15, Mandatory: false, Delivery: TERM_1
+
+Module Code: IMAT3423, Module Name: Systems Building: Methods
+Credits: 15, Mandatory: true, Delivery: TERM_1
+
+
+Reserved Modules:
+=============
+
+Module Code: CTEC3110, Module Name: Secure Web Application Development
+Credits: 15, Mandatory: false, Delivery: TERM_1
+
+Module Code: CTEC3902, Module Name: Rigorous Systems
+Credits: 15, Mandatory: false, Delivery: TERM_2
+
+Module Code: CTEC3904, Module Name: Functional Software Development
+Credits: 15, Mandatory: false, Delivery: TERM_2
+
+Module Code: CTEC3906, Module Name: Interaction Design
+Credits: 15, Mandatory: false, Delivery: TERM_1
+
